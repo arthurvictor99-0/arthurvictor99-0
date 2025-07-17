@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDkwNnQxcmE0eGplaXp1aXVjdWU5OGZ2a2tyZXducms5NjBuaHlzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UVRSXu4L4s76yze4q3/giphy.gif" width="250px" />
+</div>
+
 # 💻 Linguagens:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
